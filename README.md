@@ -29,3 +29,11 @@ Images in the Dataset are of different sizes. Some of them are out of focus, und
 * Matplotlib
 * Keras
 * Tensorflow
+
+## Run
+* Clone or Download this repo
+* Install all the required libraries
+* Run the script app.py
+* Go to http://localhost:5000/
+* Done
+
