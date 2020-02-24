@@ -39,4 +39,8 @@ Images in the Dataset are of different sizes. Some of them are out of focus, und
 
 ## Screenshot
 
+#### Upload the image
+![Screenshot (73)](https://user-images.githubusercontent.com/46196100/75194582-68903b00-577e-11ea-870b-f1dbf7187da5.png)
+
+#### Check the result
 ![Screenshot (70)](https://user-images.githubusercontent.com/46196100/75193809-f66b2680-577c-11ea-927a-4171c2931480.png)
