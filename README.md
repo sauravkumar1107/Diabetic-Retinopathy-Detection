@@ -11,6 +11,9 @@ A clinician has rated each image for the severity of diabetic retinopathy on a s
 
 Images in the Dataset are of different sizes. Some of them are out of focus, underexposed, or overexposed. 
 
+#### Dataset Used
+Dataset is from kaggle , link : https://www.kaggle.com/c/aptos2019-blindness-detection/data
+
 ## Workflow
 1. Resize Images: We will resize both the training and test images to 224x224, so that it matches the ImageNet format.
 2. Model: We will use a DenseNet-121 pre-trained on ImageNet. We will finetune it using Adam for 15 epochs, and evaluate it on an unseen   validation set.
