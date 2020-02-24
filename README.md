@@ -37,3 +37,6 @@ Images in the Dataset are of different sizes. Some of them are out of focus, und
 * Go to http://localhost:5000/
 * Done
 
+## Screenshot
+
+![Screenshot (70)](https://user-images.githubusercontent.com/46196100/75193809-f66b2680-577c-11ea-927a-4171c2931480.png)
