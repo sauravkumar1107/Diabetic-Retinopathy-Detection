@@ -1,6 +1,6 @@
 # Diabetic-Retinopathy-Detection
 
-You are provided with a large set of retina images taken using fundus photography under a variety of imaging conditions.
+We are provided with a large set of retina images taken using fundus photography under a variety of imaging conditions.
 A clinician has rated each image for the severity of diabetic retinopathy on a scale of 0 to 4:
 
 * 0 - No DR
@@ -10,6 +10,7 @@ A clinician has rated each image for the severity of diabetic retinopathy on a s
 * 4 - Proliferative DR 
 
 Images in the Dataset are of different sizes. Some of them are out of focus, underexposed, or overexposed. 
+Our Goal is to build a machine learning model to speed up disease detection.
 
 #### Dataset Used
 Dataset is from kaggle , link : https://www.kaggle.com/c/aptos2019-blindness-detection/data
